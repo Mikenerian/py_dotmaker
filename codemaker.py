@@ -25,7 +25,7 @@ def mosaic(img, alpha):
     return img
 
 # 生成したいテキストを入力
-text = "剣"
+text = "禅"
 
 # ファイルを読み込む場合
 # read_file = 'wide_thumbnail_normal.jpg'  
